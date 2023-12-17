@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+h1 {
+  font-family: "Rubik Broken Fax", sans-serif;
+  text-align: center;
+  color: brown;
+  /* margin: 10px; */
+}
+header {
+  margin-bottom: 36px;
+}
+/* header p {
+  margin-bottom: 36px;
+} */
+h2 {
+  color: rgb(78, 13, 5);
+  font-family: "Courier New", Courier, monospace;
+}
+main p {
+  margin:12px;
+  color: rgb(71, 29, 22);
+}
+.daily-goal {
+  margin:12px;
+  color: rgb(120, 200, 22);
+}
+.highlight-goal {
+  background-color: rgb(224, 124, 22);
+}
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(83, 75, 75);
+}
+a {
+  padding: 3px;
+  color: white;
+  border: 1px solid rgb(255, 255, 0);
+  border-radius: 4px;
+  text-decoration: none;
+  display : inline-block;
+}
+a:hover {
+  text-decoration: underline;
+  background-color: rgb(0, 12, 90);
+}
+#description {
+  margin-bottom: 36px;
+}
+ol {
+  list-style: none;x
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+li {
+  padding: 16px;
+  list-style: none;
+  background-color: rgb(251, 130, 100);
+  border-radius: 6px;
+  margin: 16px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+}

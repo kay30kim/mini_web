@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	background-color: rgb(233, 215, 207);
+	margin : 50px;
+  }
+  img {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+  }
+  h1 {
+	font-family: "Rubik Broken Fax";
+	text-align: center;
+	color: brown;
+  }
+  p {
+	font-family: sans-serif;
+  }
+  a {
+	color: white;
+	text-decoration: none;
+	border-radius: 4px;
+  }
+  a:hover {
+	text-decoration: underline;
+  }
+  #todays-challenge {
+	color: rgb(170, 96, 83);
+	font-weight: bold;
+	font-size: 18px;
+  }
+  
